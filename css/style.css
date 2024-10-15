@@ -13,6 +13,7 @@ body {
     height: 80vh;
     background-image: url(../img/Fondo.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
     display: flex;
     align-items: center;
